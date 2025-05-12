@@ -12,7 +12,7 @@ Features
 Setup Instructions
 
 In terminal {
-git clone https://github.com/yourusername/bookhub.git
+git clone https://github.com/Shivam791-562/bookhub.git
 cd bookhub
 npm install
 }
