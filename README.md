@@ -9,23 +9,6 @@ Features
 - PostgreSQL database using Sequelize ORM
 - Easy environment configuration
 
-Folder Structure
-
-bookhub/
-├── index.js
-├── package.json
-├── .env.example
-├── .gitignore
-├── models/
-│ ├── index.js
-│ ├── user.js
-│ ├── author.js
-│ └── book.js
-├── resolvers/
-│ └── index.js
-└── schema/
-└── typeDefs.js
-
 Setup Instructions
 
 In terminal {
